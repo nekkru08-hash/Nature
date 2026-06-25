@@ -369,3 +369,141 @@
 .ff {
     margin-left: 10px;
 }
+
+.header6 {
+    width: 90%;
+    height: 500px;
+    /* background-color: red; */
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left2 {
+    display: flex;
+    width: 380px;
+    height: 380px;
+    background-color: rgba(128, 128, 128, 0.224);
+    padding: 10px;
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.how {
+    width: 380px;
+    /* background-color: red; */
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.you {
+    width: 380px;
+    /* background-color: red; */
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.dsp {
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.dsp button {
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0E1734;
+    color: white;
+}
+
+.eline {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #0E1734;
+}
+
+.right {
+    width: 600px;
+    height: 350px;
+    /* background-color: green; */
+    margin-top: 80px;
+}
+
+.dsp1 {
+    display: flex;
+    gap: 0px;
+    /* background-color: black; */
+}
+
+.hh {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.hh1 {
+    width: 30px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.hh2 {
+    width: 30px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+.dsp1 p {
+    width: 500px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    /* background-color: blue; */
+    padding-left: 30px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 10px;
+}
+
+.dsp2 {
+    display: flex;
+    gap: 0px;
+    /* background-color: black; */
+}
+
+.dsp2 p {
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    font-size: 20px;
+    /* background-color: blue; */
+    padding-left: 30px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 10px;
+    margin-top: 20px;
+}
+
+.dsp3 {
+    display: flex;
+    gap: 0px;
+    /* background-color: black; */
+}
+
+.dsp3 p {
+    width: 500px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    /* background-color: blue; */
+    padding-left: 30px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 10px;
+    margin-top: 20px;
+}
